@@ -1,6 +1,5 @@
 # Calculator App
-
-![App Icon]([path/to/your/icon.png](https://github.com/FathyTamerMobileDevelopment/CalculatorApplication/tree/main/app/src/main/res/drawable/logo.png) <!-- Optional: Add a screenshot or icon here -->
+![image](https://github.com/user-attachments/assets/283efcc0-ad40-4441-802c-5e656b8aceb9)
 
 A simple, elegant, and responsive calculator application built with Kotlin for Android. This app provides basic arithmetic operations with a clean user interface and a custom animated splash screen.
 
