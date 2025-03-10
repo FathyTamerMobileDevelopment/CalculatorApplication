@@ -93,22 +93,22 @@ calculator-app/
 │   │   │   │   └── com/
 │   │   │   │       └── example/
 │   │   │   │           └── calcolator/
-│   │   │   │               ├── MainActivity.kt # Main calculator logic
-│   │   │   │               └── SplashScreenActivity.kt # Custom splash screen
+│   │   │   │               ├── MainActivity.kt                # Main calculator logic
+│   │   │   │               └── SplashScreenActivity.kt        # Custom splash screen
 │   │   │   ├── res/
 │   │   │   │   ├── anim/
-│   │   │   │   │   └── fade_in.xml # Fade-in animation
-│   │   │   │   ├── drawable/ # App icon and resources
+│   │   │   │   │   └── fade_in.xml                        # Fade-in animation
+│   │   │   │   ├── drawable/                              # App icon and resources
 │   │   │   │   ├── layout/
-│   │   │   │   │   ├── activity_calculator_design.xml # Calculator UI
-│   │   │   │   │   └── activity_splash.xml # Splash screen UI
-│   │   │   │   ├── mipmap/ # App icon files
+│   │   │   │   │   ├── activity_calculator_design.xml     # Calculator UI
+│   │   │   │   │   └── activity_splash.xml                # Splash screen UI
+│   │   │   │   ├── mipmap/                                # App icon files
 │   │   │   │   └── values/
-│   │   │   │       └── themes.xml # App and splash themes
-│   │   │   └── AndroidManifest.xml # App configuration
-│   └── build.gradle # App-level build config
-├── build.gradle # Project-level build config
-└── README.md # This file
+│   │   │   │       └── themes.xml                         # App and splash themes
+│   │   │   └── AndroidManifest.xml                        # App configuration
+│   └── build.gradle                                       # App-level build config
+├── build.gradle                                           # Project-level build config
+└── README.md                                              # This file
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
