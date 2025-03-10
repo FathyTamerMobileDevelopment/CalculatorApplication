@@ -43,8 +43,7 @@ This project is ideal for beginners learning Android development or anyone looki
 | Splash Screen | Main Calculator |
 |---------------|-----------------|
 | ![Splash Screen](https://github.com/user-attachments/assets/85a66fa1-d4b5-4f8c-b421-1f634486dd55) | ![Main Calculator](https://github.com/user-attachments/assets/d52a5b0f-7bde-45db-8a69-2055325bcd79) |
-*Note: Replace `path/to/...` with actual screenshot paths after uploading them to your repository.*
-
+*Note: The splash screen features the **FathyTamer** logo. Both the splash screen and calculator screen were designed using Figma.*
 ---
 
 ## Technologies Used
