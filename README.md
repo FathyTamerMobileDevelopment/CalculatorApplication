@@ -86,6 +86,7 @@ Requirements: Android Studio 4.0+, Android SDK 21+ (min SDK).
 # Project Structure
 
 calculator-app/
+
 ├── app/
 
 │   ├── src/
@@ -107,11 +108,13 @@ calculator-app/
 │   │   │   ├── res/
 
 │   │   │   │   ├── anim/
+
 │   │   │   │   │   └── fade_in.xml                        # Fade-in animation
 
 │   │   │   │   ├── drawable/                              # App icon and resources
 
 │   │   │   │   ├── layout/
+
 │   │   │   │   │   ├── activity_calculator_design.xml     # Calculator UI
 
 │   │   │   │   │   └── activity_splash.xml                # Splash screen UI
