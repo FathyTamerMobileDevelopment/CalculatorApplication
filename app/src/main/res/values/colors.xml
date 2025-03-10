@@ -16,6 +16,7 @@
     <color name="resultText">#818181</color>
     <color name="finalResultText">#424242</color>
     <color name="transparent">#0053C7</color>
+    <color name="equalcolor">#19ACFF</color>
 
 
 </resources>

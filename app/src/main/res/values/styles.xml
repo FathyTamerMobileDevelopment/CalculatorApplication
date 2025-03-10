@@ -29,6 +29,8 @@
     <!-- زر النتيجة -->
     <style name="EqualsButton" parent="OperationButton">
         <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/equalcolor</item>
 
     </style>
 
