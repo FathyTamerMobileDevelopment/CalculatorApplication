@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircleImageStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- النمط العام للأزرار -->
+    <style name="BaseButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">@dimen/button_height</item>
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:elevation">0dp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textColor">@color/buttonText</item>
+        <item name="android:backgroundTint">@color/buttonBackground</item>
+        <item name="android:layout_marginTop">@dimen/button_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/button_margin_right</item>
+    </style>
+
+    <!-- أزرار العمليات -->
+    <style name="OperationButton" parent="BaseButton">
+        <item name="android:backgroundTint">@color/operationButtonBackground</item>
+        <item name="android:textColor">@color/operationButtonText</item>
+    </style>
+
+    <!-- زر النتيجة -->
+    <style name="EqualsButton" parent="OperationButton">
+        <item name="android:textSize">@dimen/text_size_large</item>
+
+    </style>
+
+    <!-- أنماط النصوص -->
+    <style name="ResultText">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/resultText</item>
+        <item name="android:gravity">end</item>
+    </style>
+
+    <style name="FinalResultText">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/finalResultText</item>
+        <item name="android:gravity">end</item>
+    </style>
+
+</resources>
