@@ -140,7 +140,8 @@ Note: Create a LICENSE file in your repository if you want to include this.
 
 # Contact
 For questions or suggestions, feel free to reach out:
+- GitHub: FathyTamerMobileDevelopment
+- Email: Fathytameruix@gmail.com
 
-GitHub: FathyTamerMobileDevelopment
-Email: Fathytameruix@gmail.com![logo](https://github.com/user-attachments/assets/de564699-998b-446e-ac3f-b82c912e6d0b)
+![logo](https://github.com/user-attachments/assets/de564699-998b-446e-ac3f-b82c912e6d0b)
 
